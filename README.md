@@ -34,8 +34,3 @@
 - くだらないアプリを開発する
 - おもしろいプログラムを作る
 - 作って使えないものを作る
-
-## 所属開発チーム：Nuller
-<div style="background-color:#FFFFFF; padding: 10px 20px 10px 20px; width:80px; border-radius:10px">
-<a href="https://nuller.net" target="_top"><img src="https://nuller.net/nuller.png" alt="logo" class="w-10"></a>
-</div>
