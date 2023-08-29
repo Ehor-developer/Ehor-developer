@@ -1,36 +1,18 @@
-<a href="https://github.com/Ehor-developer">
-  <img height="170px" style="margin-bottom:20px; margin-top:20px;" src="https://github-readme-stats.vercel.app/api?username=Ehor-developer&show_icons=true&theme=default" /><img height="170px" style="margin-bottom:20px; margin-top:20px; margin-left:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehor-developer&langs_count=8&&layout=compact&theme=default" />
-</a>
+### Hello! Welcome Ehor Github!!
+# Ehor.
 
-# 自己紹介
+Designer / Programmer / Software engineer
 
-こんにちは！私はEhor.（えほ）です。
-趣味で作ったプログラムを、公開していくGithubユーザーです！
+🍰 ` 2008/3/15 `
 
-## 趣味でやってる言語など
+My Name is `ehor.`
 
-🌱 HTML
+### I make funny apps!
 
-🌱 CSS
+🏠  https://ehor.work
+## 🔥
 
-🌱 Javascript
+![Ehor Skills](https://skillicons.dev/icons?i=html,js,css,wordpress,python)
 
-🌱 Python
-
-🌱 Typescript
-
-🌱 Next.js
-
-🌱 Node.js
-
-🌱 Deno
-
-🌱 React,Preact
-
-## 興味・趣味
-
-私の興味・趣味はこんな感じです！
-
-- くだらないアプリを開発する
-- おもしろいプログラムを作る
-- 作って使えないものを作る
+## 🌱
+![Ehor Skills](https://skillicons.dev/icons?i=php,deno,typescript,nodejs,react,vercel,nextjs)
